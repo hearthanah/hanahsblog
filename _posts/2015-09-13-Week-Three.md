@@ -4,6 +4,7 @@ title: 09.13.15
 
 ---
 <h3>m y . t h o u g h t s</h3>
+
 First project turned in! Collatz. I had started on the project very early on and then left it untouched for about 10 days. I should not have done this. Although I had most of my stuff done and ready to submit, basically, it stressed me out and took me longer than I expected to get the final product ready for submission. This made me realize that getting a large task done, does not compensate for everything else that needs to be done. Small task are very important also and should be considered when estimating the duration of a project. I guess this could be considered a tip of the week, but I thought of a better tip you guys can read about down below. 
 
 So Chris Martin came to our class! My buddy pointed out Chris Martin is the lead singer of Coldplay. Bummer, this Chris Martin was not the same guy, but fortunately he had some pretty useful things to share with us. It was neat Bloomberg makes some many in-house products. I really like that because I feel like it opens up opportunities to make your own customized tools. Another thing Chris talked about was programmers have meetings and lots of them. I have definitely heard this before from other software developers, but it was good to hear it again. The consensus that I have came up with is that the larger the company, the more often you will have meetings. This made me consider practicing presentation skills and listening skills for long durations.      
