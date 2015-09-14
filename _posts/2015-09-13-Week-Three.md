@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 09..15
+title: 09.13.15
 
 ---
 <h3>m y . t h o u g h t s</h3>
