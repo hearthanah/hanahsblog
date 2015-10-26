@@ -7,9 +7,7 @@ permalink: /about/
 I am a senior computer science student at the University of Texas at Austin.
 
 ### More Information
-
-Please contanct me via email
+I like puppies, and I am practicing my focus on front-end development.
 
 ### Contact me
-
-[aseal.yousuf@utexas.edu](mailto:aseal.yousuf@utexas.edu)
+I sit in the second row, right side of our classroom :] 
